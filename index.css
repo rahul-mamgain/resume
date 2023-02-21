@@ -1,0 +1,16 @@
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+#cv-templete{
+    display: none;
+}
+.myImg{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
+
+.background {
+    background-color: rgb(159, 77, 154);
+}
